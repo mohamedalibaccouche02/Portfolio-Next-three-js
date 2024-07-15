@@ -96,25 +96,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/mohamedalibaccouche02",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https:/www.linkedin.com/in/mohamed-ali-baccouche-909668296",
     icon: "linkedin",
     newTab: true,
   },
   {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
-    newTab: true,
-  },
-  {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/Baccouche%20Mohamed%20ali%20cv.pdf",
     icon: "resume",
     newTab: true,
   },
