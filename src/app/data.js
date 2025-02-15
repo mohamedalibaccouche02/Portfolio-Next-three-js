@@ -47,7 +47,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/Baccouche%20Mohamed%20ali%20cv.pdf",
+    link: "/MedAliBaccouch_WEB_Ai_Developer_CV.pdf",
     icon: "resume",
     newTab: true,
   },
