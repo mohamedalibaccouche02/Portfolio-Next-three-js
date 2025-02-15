@@ -41,7 +41,7 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https:/www.linkedin.com/in/mohamed-ali-baccouche-909668296",
+    link: "https://www.linkedin.com/in/mohamed-ali-baccouche-909668296",
     icon: "linkedin",
     newTab: true,
   },
@@ -52,5 +52,3 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
-
